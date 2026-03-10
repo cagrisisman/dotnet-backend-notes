@@ -16,9 +16,6 @@ Burada yer alan içerikler; teorik anlatımlar, pratik kod örnekleri ve üretim
 Repository içerisinde aşağıdaki başlıklara odaklanan içerikler bulunmaktadır:
 
 * **ASP.NET Core mimarisi**
-* **Middleware ve request pipeline yapısı**
-* **Action Filters ve uygulama seviyesinde kontrol mekanizmaları**
-* **Dependency Injection**
 * **API tasarımı ve backend best practices**
 * **Logging ve hata yönetimi**
 * **Performans ve ölçeklenebilirlik yaklaşımları**
